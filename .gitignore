@@ -1,0 +1,38 @@
+# فولدرهای build و توسعه
+build/
+dist/
+tmp/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# وردپرس
+*.log
+*.sql
+local-settings.php
+wp-config.php
+
+# فایل‌های سیستم و محیط
+.DS_Store
+Thumbs.db
+.env
+.vscode/
+.idea/
+*.swp
+
+# Git
+*.orig
+*.rej
+.gitignore
+
+# خروجی ابزارهای build
+*.map
+*.gz
+*.zip
+*.tar
+*.tgz
+*.7z
